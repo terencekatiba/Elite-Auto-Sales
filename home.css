@@ -34,3 +34,11 @@
 .btn:hover {
   transform: scale(1.05);
 }
+.logo {
+  width: 150px;
+}
+.hero {
+  align-items: center;
+  font-family: ARIAL, sans-serif;
+  text-align: center;
+}
