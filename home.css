@@ -11,12 +11,26 @@
 .navlinks {
   display: flex;
   gap: 15px;
+  list-style: none;
 }
 .navlinks a {
   color: white;
   text-decoration: none;
-  font-weight: bold;
+  font-weight: 500;
   font-family: Arial, sans-serif;
+  transition: 0.3s ease;
+  position: relative;
 }
-.a hover {
+.navlinks a:hover {
+  color: gold;
+}
+.btn {
+  background-color: gold;
+  color: black;
+  padding: 8px 15px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+.btn:hover {
+  transform: scale(1.05);
 }
