@@ -22,3 +22,14 @@ section{
 }
 
 /* END SECTION*/
+
+/*PRODUCTS*/
+section header{
+  font-family: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: white;
+  margin-bottom: 12px;
+}
+/*END PRODUCTS*/
