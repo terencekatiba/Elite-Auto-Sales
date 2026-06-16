@@ -46,3 +46,11 @@ section h1{
   
 }
 /* END H1*/
+
+/* product card layout*/
+section{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+/*End of product card layout*/
