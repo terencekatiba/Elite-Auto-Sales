@@ -10,3 +10,9 @@
   display: flex;
   gap: 15px;
 }
+.navlinks a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+}
