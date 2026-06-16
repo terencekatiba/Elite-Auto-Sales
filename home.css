@@ -4,7 +4,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 20px;
   position: sticky;
   top: 0;
 }
@@ -30,6 +29,7 @@
   padding: 8px 15px;
   border-radius: 8px;
   font-weight: bold;
+  font-family: Arial, sans-serif;
 }
 .btn:hover {
   transform: scale(1.05);
@@ -41,4 +41,9 @@
   align-items: center;
   font-family: ARIAL, sans-serif;
   text-align: center;
+}
+.cars {
+  display: flex;
+  padding: 20px;
+  width: 100%;
 }
