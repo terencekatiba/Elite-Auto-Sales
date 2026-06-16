@@ -52,5 +52,11 @@ section{
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
+  
+}
+
+section header,
+section h1{
+  width: 100%;
 }
 /*End of product card layout*/
