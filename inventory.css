@@ -89,3 +89,15 @@ div p{
 
 }
 /* end of car name*/
+
+/* car image*/
+
+div p{
+  width: 100%;
+  min-height: 220px;
+  object-fit: cover;
+  display: block;
+  min-height: 250px;
+  flex: 1;
+}
+/* end of car image*/
