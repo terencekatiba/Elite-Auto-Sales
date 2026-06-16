@@ -14,3 +14,11 @@ body{
   color: white;
 }
 
+/* SECTION*/
+section{
+  max-width: 1200px;
+  margin: 60px auto;
+  padding: 0 30px;
+}
+
+/* END SECTION*/
